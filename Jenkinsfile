@@ -28,7 +28,7 @@ pipeline {
                         url: 'http://localhost:8081'
                     )
                 ],
-                contextPath: 'my-webapp',
+                contextPath: 'devops4-main',
                 war: 'target/webapp.war'
             }
         }
